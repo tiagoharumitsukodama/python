@@ -8,3 +8,6 @@
 
 ### War
 #### Terminal game using POO
+
+### API - ideograms - Flask
+#### Receive GET and convert params to japanese ideograms
