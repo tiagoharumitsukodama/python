@@ -15,3 +15,6 @@ Receive GET and convert params to japanese ideograms
 
 ### RegularExpressions
 Searching for the word that contains a certain letter
+
+### Handle Main File
+Running the main file and imported file
